@@ -1,0 +1,21 @@
+#BFS Pseudocode
+
+procedure BFS(G,s)
+for each vertex v ∈ V[G] do
+explored[v] ← false
+d[v] ← ∞
+end for
+explored[s] ← true
+d[s] ← 0
+Q:= a queue data structure, initialized with s
+while Q 6= φ do
+u ← remove vertex from the front of Q
+for each v adjacent to u do
+if not explored[v] then
+explored[v] ← true
+d[v] ← d[u] + 1
+insert v to the end of Q
+end if
+end for
+end while
+end procedure
