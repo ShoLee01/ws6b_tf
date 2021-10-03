@@ -44,6 +44,11 @@
 
 # **Análisis Asintótico**
 
-
-
-
+- La complejidad del algoritmo de Dijkstra utilizando cola de prioridad es:
+  O((|E|+|V|) log |V|)
+  
+- Se puede estimar la complejidad computacional del algoritmo de Dijkstra (en términos de suma y comparaciones).
+- El algoritmo realiza a los más n-1 iteraciones, ya que cada iteración se añade un vértice.
+- Para estimar el número total de operaciones que se llevan a cabo en cada iteración.
+- Podemos identificar el nodo con la menor etiqueta entre los que no están realizando n-1 comparaciones.
+  Por lo tanto, en cada iteración se realiza 2(n-1).
