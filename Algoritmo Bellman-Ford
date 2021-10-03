@@ -19,8 +19,9 @@ procedimiento Bellman-Ford
            D[e2]=D[e1]+ W[e1,e2]
        fin
    fin
-``` 
-  ## Análisis Asintótico
+```
+## Análisis Asintótico
+
 - El algoritmo se inicializa en el primer paso tomando O(V) 
--Luego el algoritmo se repite por (V-1) veces, cada vuelta al bucle resultaria en un tiempo O(1)
--Debido a que el algoritmo visita todos las aristas E el tiempo final resilta O(V*E)
+- Luego el algoritmo se repite por (V-1) veces, cada vuelta al bucle resultaria en un tiempo O(1)
+- Debido a que el algoritmo visita todos las aristas E el tiempo final resilta O(V*E)
