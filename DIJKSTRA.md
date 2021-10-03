@@ -1,4 +1,4 @@
-# **Algoritmo de Dijkstra**
+## Algoritmo de Dijkstra
 
 
 -El algoritmo de Dijkstra consiste en encontrar una ruta o camino óptimo entre un nodo fuente y un nodo destino, los cuales están enlazados a través de arcos que 
@@ -35,12 +35,13 @@
                    
 ```
 
-# **Análisis Asintótico**
-
--El algoritmo comienza con nodo fuente en este caso llamado s en el grafo,  su costo inicial será 0 y no tendrá padre asociado, para los demás nodos las distancias son infinitas.
+-El algoritmo comienza con nodo fuente en este caso llamado s en el grafo,  su costo inicial será 0 y no tendrá padre asociado, para los demás nodos las distancias son    infinitas.
 -En el siguiente paso se traslada hacia los puntos entregas adyacentes y se procederá a actualizar las distancias de cada punto seleccionado. Además, uno vez hecho este paso se 
 -continuará guardando en la cola de prioridad y si encuentra una mejor se extraerá de la cola que tienen guardados. El algoritmo de Dijkstra termina cuando todos los nodos puntos 
 -fueron visitados.
+
+
+# **Análisis Asintótico**
 
 
 
