@@ -1,25 +1,25 @@
 # Breadth-first search
    ## BFS Pseudocode
 ``` [python]
-procedure BFS(G,s)
-   for each vertex v ∈ V[G] do
+procedimiento BFS(G,s)
+  por cada vertice v ∈ V[G] hacer
        explored[v] ← false
        d[v] ← ∞
-   end for
+   fin for
    explored[s] ← true
    d[s] ← 0
-   Q:= a queue data structure, initialized with s
-   while Q 6= φ do
-       u ← remove vertex from the front of Q
-       for each v adjacent to u do
-           if not explored[v] then
+   Q:= a 
+   mientras Q 6= φ hacer
+       u ← remover el vertice del primer lugar de Q
+    por cada v adyacente a u hacer
+           si no explored[v] entonces
                explored[v] ← true
                d[v] ← d[u] + 1
-               insert v to the end of Q
-           end if
-       end for
-   end while
-end procedure
+              insertar v al final de Q
+          fin si
+      fin for
+   fin mientras
+fin procedimiento
 ``` 
 ![image](https://user-images.githubusercontent.com/66757138/135741211-afa3c31d-0a50-4f08-9ab6-39837fc0eacb.png)
 
