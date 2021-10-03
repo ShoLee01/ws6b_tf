@@ -23,7 +23,7 @@
       DIJKSTRA (Grafo G, nodo_fuente s)       
        para u ∈ V[G] hacer
            costo[u] = INFINITO
-           padre[u] = NULL
+           padre[u] = -1
            visto[u] = false
        costo[s] = 0
        adicionar = (cola,(costo[s],s))
@@ -31,8 +31,8 @@
            u = extraer_mínimo(cola)
            visto[u] = true
            para todos v ∈ adyacencia[u] hacer
-               si no visto[v] y distancia[v] > distancia[u] + peso (u, v) hacer
-                   distancia[v] = distancia[u] + peso (u, v)
+               si no visto[v] y costo[v] > costo[u] + peso (u, v) hacer
+                   costo[v] = costo[u] + peso (u, v)
                    padre[v] = u
                    adicionar(cola,(costo[v],v))
                    
