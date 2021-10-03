@@ -12,7 +12,9 @@
   y 4900 puntos de entregas.Además, sabemos que cada distribución y punto de entregas estan definidos por una posición X, Y correspondiente a un punto de la ciudad, y ha base
   de esta información se sabrá la cantidad aproximada de cada distribución, en este caso le tocara 70 entregas.Se utilizará el algoritmo de Dijsktra para calcular el camino     mínimo
   
-- de cada distribución hacia sus 70 entregas.El algoritmo sería de la siguiente forma:
+- de cada distribución hacia sus 70 entregas.
+
+- El algoritmo sería de la siguiente forma:
 
 ## Pseudocódigo
 
