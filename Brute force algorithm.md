@@ -16,3 +16,4 @@ procedimiento Burbuja(a(0),a(1),a(2),a(n-1))
 	hasta que (i < n) && (ordenado = si)
 fin procedimiento 
 ```
+![image](https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif)
