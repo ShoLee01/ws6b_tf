@@ -19,7 +19,7 @@
 
 - C = (d/D)*p
 
-  Donde:
+Donde:
 
 - C = Costo total del combustible que requiere el vehículo para trasladarse a todos los puntos de distribución y entrega
 - d = Distancia recorrida del vehículo a un punto de distribución y un punto de entrega
