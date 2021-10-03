@@ -1,4 +1,4 @@
-# IntegrantesIntegrantes
+# Integrantes
 
 
 * Miguel Alfaro Gonzales
