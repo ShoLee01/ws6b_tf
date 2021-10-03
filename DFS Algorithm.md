@@ -31,6 +31,7 @@ fin procedimiento
 - DFS se ejecuta a O(n + m)tiempo siempre que el gráfico esté representado por la estructura de la lista de adyacencia
 - Recordar que Σv deg(v) = 2m
 
+
 ## Conclusiones
 
 - El concepto es el similar que BFS solo que se cambia la Cola por una Pila, el proceso es como sigue: visitar el nodo inicial y ponerlo en la pila, ahora para ver los siguientes nodos a visitar sacamos el nodo tope de la pila y vemos sus adyacentes, los que no han sido visitados los insertamos en la pila. El proceso se repite hasta que la pila se encuentre vacía ( se han visitado todos los nodos ).
