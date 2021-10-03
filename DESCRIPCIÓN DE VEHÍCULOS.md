@@ -1,7 +1,7 @@
-- Como el objetivo es buscar un balance entre el tiempo y costo de entrega en el problema de enrutamiento de
+# Como el objetivo es buscar un balance entre el tiempo y costo de entrega en el problema de enrutamiento de
   vehículos o VRP.
 
-- Por lo tanto, se tiene los siguiente:
+Por lo tanto, se tiene los siguiente:
 
 # Características del vehículo
 
