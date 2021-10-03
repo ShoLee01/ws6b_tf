@@ -7,3 +7,5 @@
 * Erick Alonso Brocca Hernandez
 * Sebastian Alonso Gonzales Sotomayor
 * César Ramiro Alarcón Olave
+
+- Link video: https://youtu.be/DUWoJhM9p3Y
