@@ -28,4 +28,4 @@ Donde:
 # Restricciones
 - d>0
 - D>0
-- P>0
+- p>0
