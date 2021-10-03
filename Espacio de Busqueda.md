@@ -2,7 +2,7 @@
 - Para la definicion del espacio de busqueda veamos la siguiente imagen:
 
 
-![image](https://user-images.githubusercontent.com/66757138/135742973-d187aba4-3952-4596-8fb8-6a4a3c328234.png)
+![image](https://user-images.githubusercontent.com/66757138/135743505-4786dbf9-73cd-4b62-addf-69da783b8dca.png)
 
 Nuestro estado inicial en este caso tomando como referencia la imagen seria el numero 1 y queremos llegar al punto numero 5 , y tenemos diferentes caminos por los cuales 
 podemos llegar a nuestro destino. Cada camino como podemos apreciar tiene un "costo" por recorrerlo y nuestro trabajo es llegar al punto 5 con el menor costo posible de todos
