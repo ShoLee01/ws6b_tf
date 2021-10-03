@@ -1,4 +1,4 @@
-# Bellman-Ford
+## Bellman-Ford
    ## Bellman-Ford Pseudocodigo
 ``` [python]
 dado un grafo dirigido G(V,E) el nodo de inicio S y el peso W de cada arista
