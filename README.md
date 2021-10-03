@@ -1,4 +1,4 @@
-## integrantes
+### Integrantes
 
 * Miguel Alfaro Gonzales
 * Dino Iván Pérez Vásquez
