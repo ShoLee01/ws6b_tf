@@ -1,4 +1,4 @@
-#BFS Pseudocode
+# BFS Pseudocode
 
 procedure BFS(G,s)
 for each vertex v ∈ V[G] do
