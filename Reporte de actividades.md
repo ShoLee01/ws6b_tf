@@ -6,7 +6,7 @@ N° | Actividad | Asignado a | Fecha de entrega |
 2|Generar primera versión de almacenes. | Miguel Alfaro|03/10/2021
 3|Generar primera versión de puntos entrega.|Miguel Alfaro|03/10/2021
 4|Generar descripción de datos de vehículos de entrega indicando según su criterio, calculo de costo.|Dino Perez |  03/10/2021
-5|Definir espacio de búsqueda, estado inicial, posible estado final, transiciones.|Adrian Esqueiros - Carlos Leon |  03/10/2021
+5|Definir espacio de búsqueda, estado inicial, posible estado final, transiciones.|Erick Brocca |  03/10/2021
 6|Definir algoritmo integrante 1 en alto nivel con posible análisis asintótico. |Sebastian Gonzales| 03/10/2021
 7|Definir algoritmo integrante 2 en alto nivel con posible análisis asintótico. |Cesar Alarcon| 03/10/2021
 8|Definir algoritmo integrante 3 en alto nivel con posible análisis asintótico. |Dino Perez| 03/10/2021
