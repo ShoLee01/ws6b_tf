@@ -1,4 +1,4 @@
-#Algoritmo para generar el grafico con las cuidades
+# Algoritmo para generar el grafico con las cuidades
 ```
 import csv
 import numpy as np
