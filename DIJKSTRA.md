@@ -54,3 +54,28 @@
 - Para estimar el número total de operaciones que se llevan a cabo en cada iteración.
 - Podemos identificar el nodo con la menor etiqueta entre los que no están realizando n-1 comparaciones.
   Por lo tanto, en cada iteración se realiza 2(n-1).
+
+
+``` [python]
+import heapq as hq
+import math
+import numpy as np
+def dijkstra(G,s):
+    n=len(G)
+    visited=[False]*n
+    path=[None]*n
+    cost=[100000000]*n
+    cost[s]=0
+    queue=[(0,s)]
+    while queue:
+        g_u, u=hq.heappop(queue)
+        if not visited[u]:
+            visited[u]=True
+            for w, v in G[u]:
+                f=g_u+w
+                if f<cost[v]:
+                    cost[v]=f
+                    path[v]=u
+                    hq.heappush(queue,(f,v))
+    return path,cost
+```
