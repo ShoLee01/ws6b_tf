@@ -1,3 +1,5 @@
+#Algoritmo de Dijkstra básico
+
 def dijkstra(G, s):
   n = len(G)
   visited = [False]*n
@@ -18,6 +20,7 @@ def dijkstra(G, s):
 
   return path, cost
 
+#Algoritmo de Dijkstra para cada almacenes a los puntos de entrega
 
 def Dijkstra_modificado(almacenes,entregas,GRAFO):
   res = []
@@ -34,7 +37,7 @@ def Dijkstra_modificado(almacenes,entregas,GRAFO):
       res.append((i,l,c, p))
   return re
 
-
+#Algoritmo de Dijkstra modificado para las entregas, a sus puntos más cercanos
 
 def dijkstra2(Almacenes,Puntos, Grafo, nodo_inicial):
   visited = {node:False for node in M}
