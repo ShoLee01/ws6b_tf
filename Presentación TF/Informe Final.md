@@ -3,6 +3,11 @@
 
 ### Determinar la solución óptima es un problema NP-duro de  optimización combinatoria. Las implementaciones más utilizadas para resolver el problema se basan en heurísticas debido a que para grandes instancias del problema, que como sucede en ejemplos reales, producen buenos resultados. El VRP tiene muchas aplicaciones obvias en industrias. De hecho, el uso de programas de optimización puede dar ahorros de 5% a una compañía cuando el transporte es normalmente un componente significativo del coste de un producto (10%) - de hecho, el sector de transporte hace 10% de PIB de la UE. Consiguientemente, cualesquier ahorros crearon por el VRP.
 
+#Marco Teórico
+•    Python: lenguaje interpretado multipropósito de alto nivel. Su diseño hace uso de una sintaxis simple y facil de aprender con énfasis en la legibilidad del código. Ofrece múltiples librerías y promueve la modularidad del código
+•    Algoritmo: proceso o conjunto de reglas a ser seguido para realizar cálculos u otro tipo de solución de problemas
+•    Vehicle Routing Problem (VRP): problema de optimización y programación definido por el siguiente enuncidado: ¿Cuál es el conjunto de rutas óptimo a realizar para una flota de vehículos con el fin de hacer entregas a un conjunto determinado de clientes? El fin de este problema es el de reducir los costos.
+
 # Grafo generado por Dataset
 ```
 G, identificador = create_city(n_town)
