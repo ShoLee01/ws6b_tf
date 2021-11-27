@@ -1,7 +1,6 @@
 
-## Algoritmo de dijkstra modificado como diccionario para la implementación
-
-``` 
+#Dino Iván Pérez Vásquez
+#Algoritmo de dijkstra modificado como diccionario para la implementación
 
 def Dijkstra_diccionario(G,S):
   visited,path,cost = {},{},{}
@@ -22,5 +21,4 @@ def Dijkstra_diccionario(G,S):
         hp.heappush(Cola,(f,v))
 
   return path
-                   
-```
+
