@@ -42,3 +42,6 @@ def structure_prim(grupo, plt=None, town=80):
       nodesec = get_cod(int(label[path[i]]), town)
       plt.plot([nodefir[0], nodesec[0]], [nodefir[1], nodesec[1]])
 ```
+ ### Visualización del grafo interpretado
+ 
+![Imagen del grafo interpretado](https://colab.research.google.com/drive/17zGvEVSkj9248rRbgzOkOWL1bNOjUwIt#scrollTo=rlrRDOljFSXU&line=1&uniqifier=1)
