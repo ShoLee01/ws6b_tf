@@ -44,4 +44,4 @@ def structure_prim(grupo, plt=None, town=80):
 ```
  ### Visualización del grafo interpretado
  
-![Imagen del grafo interpretado](https://colab.research.google.com/drive/17zGvEVSkj9248rRbgzOkOWL1bNOjUwIt#scrollTo=rlrRDOljFSXU&line=1&uniqifier=1)
+![Imagen del grafo interpretado](https://cdn.discordapp.com/attachments/893982069846335513/914250905925349397/unknown.png)
