@@ -32,7 +32,7 @@ def structure_bellmanFord(grupo, plt=None, town=80):
   for i, _ in enumerate(node):
     for j, _ in enumerate(node):
       if i == j: continue
-      grafo[i].append((j, manhattan_distance(node[i], node[j])))
+      grafo[i].append((j, manhattan_distance(node[i], node[j])) )
   path, cost = bellmanFord(grafo, len(node) - 1)
   if(plt == None): return NodeShow(grafo, weighted=True, path=path, labels=label)
   else: 
