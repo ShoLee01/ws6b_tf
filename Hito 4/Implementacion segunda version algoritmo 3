@@ -1,0 +1,26 @@
+
+## Algoritmo de dijkstra modificado como diccionario para la implementación
+
+``` 
+
+def Dijkstra_diccionario(G,S):
+  visited,path,cost = {},{},{}
+  for i in G.keys():
+    visited[i],path[i],cost[i] = False,None,math.inf
+
+  cost[s] = 0
+  Cola = [(0,S)]
+  while len(Cola)>0:
+    g_u,u = hp.heappop(Cola)
+    if visited[u]:continue
+    visited[u] = True
+    for v in G[u]:
+      f = g_u+1
+      if cost[v]>f:
+        cost[v] = f
+        path[v] = u
+        hp.heappush(Cola,(f,v))
+
+  return path
+                   
+```
