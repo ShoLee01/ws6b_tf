@@ -1,0 +1,17 @@
+# Algoritmo Bellman-Ford Sebastian Gonzales 
+def bellmanford(G,i):
+    n=len(G)
+    peso=[10000000]*n
+    peso[i]=0
+    camino=[-1]*n
+    for i in range(n-1):
+        for j in range(n):
+            for v,u in G[j]:
+                if peso[j]+u<peso[v]:
+                    peso[v]=peso[j]+u
+                    camino[v]=j
+    for i in range(n):
+        for v,u in G[i]:
+            if peso[i]+u<peso[v]:
+                return None,None
+    return camino,peso
