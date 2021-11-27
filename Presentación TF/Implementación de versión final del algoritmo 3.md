@@ -46,4 +46,4 @@ def structure_dijkstra(grupo, plt=None, town=80):
 ```
  ### Visualización del grafo interpretado
  
-![Imagen del grafo interpretado](https://discord.com/channels/893982069846335508/893982069846335513/914274722571780146)
+![Imagen del grafo interpretado](https://discord.com/channels/893982069846335508/893982069846335513/914274722571780146.png)
