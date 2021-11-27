@@ -1,5 +1,5 @@
-#Dino Iván Pérez Vásquez
-#Algorítmo de Dijkstra
+Dino Iván Pérez Vásquez
+Algorítmo de Dijkstra básico
 
 def dijkstra(G, s):
   n = len(G)
