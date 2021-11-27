@@ -50,5 +50,6 @@ def structure_bfs(grupo, plt=None, ntown=80):
       plt.plot([nodefir[0], nodesec[0]], [nodefir[1], nodesec[1]])
 ```
  ### Visualización del grafo interpretado
- https://cdn.discordapp.com/attachments/893982069846335513/914276155719290900/unknown.png
+![image](https://user-images.githubusercontent.com/66757138/143722007-6218d895-670f-49b8-a2b2-c7531290e164.png)
+
  
