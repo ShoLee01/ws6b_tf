@@ -1,16 +1,14 @@
 # Reporte de Actividades
-Lista de actividades realizadas para el [Trabajo Parcial](https://github.com/ShoLee01/ws6b_tf_201822206_201923816_201414715_201910015_201715721_201710880/milestone/1)
+Lista de actividades realizadas para el [Trabajo Final](https://github.com/ShoLee01/ws6b_tf_201822206_201923816_201414715_201910015_201715721_201710880/milestone/6)
 N° | Actividad | Asignado a | Fecha de entrega | 
 -|-|-|-
-1|Implementación de versión final del algoritmo 1| Sebastian Gonzales |  03/10/2021
-2|Generar primera versión de almacenes. | Miguel Alfaro|03/10/2021
-3|Generar primera versión de puntos entrega.|Miguel Alfaro|03/10/2021
-4|Generar descripción de datos de vehículos de entrega indicando según su criterio, calculo de costo.|Dino Perez |  03/10/2021
-5|Definir espacio de búsqueda, estado inicial, posible estado final, transiciones.|Erick Brocca |  03/10/2021
-6|Definir algoritmo integrante 1 en alto nivel con posible análisis asintótico. |Sebastian Gonzales| 03/10/2021
-7|Definir algoritmo integrante 2 en alto nivel con posible análisis asintótico. |Cesar Alarcon| 03/10/2021
-8|Definir algoritmo integrante 3 en alto nivel con posible análisis asintótico. |Dino Perez| 03/10/2021
-9|Definir algoritmo integrante 4 en alto nivel con posible análisis asintótico. |Erick Brocca| 03/10/2021
-10|Definir algoritmo integrante 5 en alto nivel con posible análisis asintótico. |Miguel Alfaro| 03/10/2021
-11|Producir reporte de actividades.|Erick Brocca| 03/10/2021
-12|Incluir URL de video en youtube (u otro servicio) no listado (compartido por URL, privado) en el archivo README.md de un video elaborado de máximo 1 minuto explicando actividades realizadas.|Miguel Alfaro| 03/10/2021
+1|Implementación de versión final del algoritmo 1| Sebastian Gonzales |  27/11/2021
+2|Implementación de versión final del algoritmo 2| Miguel Alfaro|27/11/2021
+3|Implementación de versión final del algoritmo 3|Dino Perez|27/11/2021
+4|Implementación de versión final del algoritmo 4|Erick Brocca |  27/11/2021
+5|Elaboracion de un video de 10 a 15 minutos con la exposicion de todos los participantes|Erick Brocca, Miguel Alfaro, Dino Perez, Sebastian Gonzales | 27/11/2021
+6|Preparacion de demostracion |Erick Brocca, Miguel Alfaro, Dino Perez, Sebastian Gonzales| 27/11/2021
+7|Elaboracion de la presentacion |Erick Brocca, Miguel Alfaro, Dino Perez, Sebastian Gonzales| 27/11/2021
+8|Elaboracion de la version final del informe  | Dino Perez, Miguel Alfaro| 27/11/2021
+9|Reorganizacion de los diferentes Hitos de nuestro proyecto|Erick Brocca| 27/11/2021
+10|Elaboracion de reporte de actividades final|Erick Brocca| 27/11/2021
