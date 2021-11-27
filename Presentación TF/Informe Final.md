@@ -112,3 +112,5 @@ def bellmanFord(G, s):
         return None, None
   return path, cost
 ```
+# Resultado final 
+![Imagen del grafo](https://cdn.discordapp.com/attachments/893982069846335513/914214095102832790/descarga.png)
