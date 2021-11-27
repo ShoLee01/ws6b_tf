@@ -45,3 +45,5 @@ def structure_dijkstra(grupo, plt=None, town=80):
       plt.plot([nodefir[0], nodefsec[0]], [nodefir[1], nodefsec[1]])
 ```
  ### Visualización del grafo interpretado
+ 
+ ![Imagen del grafo interpretado](https://discord.com/channels/893982069846335508/893982069846335513/914274722571780146/unknown.png)
